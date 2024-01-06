@@ -13,7 +13,7 @@ Welcome to the Checkers Game! This project lets you play a classic game of check
      ```bash
      cd checkers-game
      ```
-   - Open `index.html` in your web browser to start the game.
+   - find the main file to run and play the game either via GUI or the console of your IDE
 
 2. **Gameplay:**
    - **Local Multiplayer:** Play against a friend on the same device.
